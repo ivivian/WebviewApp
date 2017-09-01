@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\workspace_as\\yqqapp\\yqqwebview\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\head_right_search.xml",
+        "source": "E:\\workspace_as\\yqqapp\\yqqwebview\\res\\drawable-ldpi\\head_right_search.xml"
+    },
+    {
+        "merged": "E:\\workspace_as\\yqqapp\\yqqwebview\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_titlebar_main.xml",
+        "source": "E:\\workspace_as\\yqqapp\\yqqwebview\\res\\drawable-ldpi\\bg_titlebar_main.xml"
+    },
+    {
+        "merged": "E:\\workspace_as\\yqqapp\\yqqwebview\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\splash_screen.jpg",
+        "source": "E:\\workspace_as\\yqqapp\\yqqwebview\\res\\drawable-ldpi\\splash_screen.jpg"
+    },
+    {
+        "merged": "E:\\workspace_as\\yqqapp\\yqqwebview\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\controlbar_home.xml",
+        "source": "E:\\workspace_as\\yqqapp\\yqqwebview\\res\\drawable-ldpi\\controlbar_home.xml"
+    }
+]

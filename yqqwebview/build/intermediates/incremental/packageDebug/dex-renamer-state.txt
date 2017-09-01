@@ -1,0 +1,7 @@
+#Fri Sep 01 14:35:17 CST 2017
+base.0=E\:\\workspace_as\\yqqapp\\yqqwebview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_12db080d28428c93f8188d363fdff41e12fc7e5a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\workspace_as\\yqqapp\\yqqwebview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8dbbb5b61484e78fd12894d22626fbadf9b09d7e\\classes.dex
+base.1=E\:\\workspace_as\\yqqapp\\yqqwebview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8dbbb5b61484e78fd12894d22626fbadf9b09d7e
+file.0=E\:\\workspace_as\\yqqapp\\yqqwebview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_12db080d28428c93f8188d363fdff41e12fc7e5a\\classes.dex

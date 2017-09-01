@@ -1,0 +1,48 @@
+<FrameLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <!-- 启动等待界面 -->
+    <FrameLayout
+        android:id="@+id/fullscreen_custom_content"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/splash_screen"
+        android:visibility="visible" >
+        <com.android.volley.toolbox.NetworkImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/volleyimg_splash"
+            />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/main_content"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="invisible"
+        >
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            >
+            <WebView
+                android:id="@+id/webView1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                />
+            <GridView
+                android:id="@+id/gridView1"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/controlbar_line_height"
+                >
+            </GridView>
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+
+</FrameLayout> 

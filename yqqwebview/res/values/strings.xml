@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">软件开发</string>
+    <string name="login">登录</string>
+    <string name="media">Rich Media</string>
+    <string name="custom_text_hint">微奇奇开发信息</string>
+    <string name="app_versionName">1.0</string>
+    <string name="app_versioncode">10</string>
+    <string name="app_updateurl">http://www.zzv.cn/demo/webview/appver.txt</string>
+	<string name="app_updateapk">http://www.zzv.cn/demo/webview/zzv.apk</string>
+	<string name="url_home">http://www.zzv.cn/?mobile=yes</string>
+	<string name="url_mobile">http://www.zzv.cn/index.php?c=content&amp;a=list&amp;catid=1</string>
+	<string name="url_company">http://www.zzv.cn/index.php?c=content&amp;a=list&amp;catid=5</string>
+	<string name="url_cart">http://www.zzv.cn/index.php?c=content&amp;a=list&amp;catid=19</string>
+	<string name="url_user">http://www.zzv.cn/index.php?c=content&amp;a=list&amp;catid=10</string>
+	<string name="url_notice">http://www.zzv.cn/demo/webview/notice.php</string>
+	<string name="btn_home">首页</string>
+	<string name="btn_mobile">移动</string>
+	<string name="btn_front">前端</string>
+	<string name="btn_back">后端</string>
+	<string name="btn_user">关于</string>
+	<string name="permission_camera">摄像头</string>
+	<string name="permission_storage">文件</string>
+	<string name="permission_accounts">信息</string>
+	<string name="permission_phone">状态</string>
+	<string name="permission_location">定位</string>
+	<string name="permission_audio">录音</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+		<item name="android:windowNoTitle">true</item>
+    </style>
+    
+    <style name="main_title_bar_style">
+        <item name="android:background">@drawable/bg_titlebar_main</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/title_bar_height</item>
+    </style>
+</resources>

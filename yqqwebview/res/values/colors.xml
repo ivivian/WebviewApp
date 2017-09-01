@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#ff75a6ff</color>
+    <color name="translucence">#ff4e4752</color>
+    <color name="btn_press_color">#a7cae4</color>
+    <color name="btn_pressed_color">#84c8fa</color>
+    <color name="myred">#ffcc3131</color>
+    <color name="darkgray">#cccc</color>
+</resources>

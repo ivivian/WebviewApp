@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="title_bar_height">44.0dip</dimen>
+    <dimen name="head_size">28.0dip</dimen>
+    <dimen name="head_leftlogo_width">56.0dip</dimen>
+    <dimen name="top_category_height">40.0dip</dimen>
+    <dimen name="category_tab_text">15.0sp</dimen>
+    <dimen name="controlbar_text_size">10.0sp</dimen>
+    <dimen name="controlbar_line_height">45.0dip</dimen>
+    <dimen name="btn_height">30dp</dimen>
+    <dimen name="btn_width">50dp</dimen>
+</resources>

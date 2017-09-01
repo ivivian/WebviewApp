@@ -1,0 +1,329 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:2:1-138:12
+	package
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:3:5-32
+	android:versionName
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:5:5-30
+		INJECTED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml
+		INJECTED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:4:5-29
+		INJECTED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml
+		INJECTED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:7:5-73
+MERGED from [yqqapp:volley:unspecified] E:\workspace_as\yqqapp\volley\build\intermediates\bundles\default\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\8f358c333341a79f9783f39212f07a9c732e99e4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\06c7b5e8f8186fca40fa3e1b8d20e913cbe14336\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\22d94a166c557c1c60b1e721afe4083a3097ed6d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\c9d279706c2a43445eebd550f17e683b5b37c8c6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\f5cf65655b5572abb2d2d51b30a6d3048c73ada7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\cfb2320c232280ec4604c44bfac4d6a2b1dcb658\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\493148fb8995a1a9ed13da0ba763bd8d03e7fe08\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\a84b57a6ca04172eb5b1e0b47dfc6a5df8408056\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\d32a88a0d739be49861f6265457276aa059b7ea0\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:7:42-71
+		INJECTED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml
+		INJECTED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:7:15-41
+uses-permission#android.permission.INTERNET
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:13:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:16:5-82
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:16:22-79
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:17:5-88
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:17:22-85
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.CAMERA
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:20:22-62
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:22:22-73
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:23:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:24:22-77
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:25:2-81
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:25:19-79
+uses-permission#baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.baidu.push.example
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:28:5-107
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:28:22-104
+permission#baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.baidu.push.yqqwebview
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:29:5-31:44
+	android:protectionLevel
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:31:9-41
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:30:9-94
+application
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:34:5-136:19
+MERGED from [yqqapp:volley:unspecified] E:\workspace_as\yqqapp\volley\build\intermediates\bundles\default\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\8f358c333341a79f9783f39212f07a9c732e99e4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\06c7b5e8f8186fca40fa3e1b8d20e913cbe14336\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\22d94a166c557c1c60b1e721afe4083a3097ed6d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\c9d279706c2a43445eebd550f17e683b5b37c8c6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\f5cf65655b5572abb2d2d51b30a6d3048c73ada7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\cfb2320c232280ec4604c44bfac4d6a2b1dcb658\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\493148fb8995a1a9ed13da0ba763bd8d03e7fe08\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\a84b57a6ca04172eb5b1e0b47dfc6a5df8408056\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\d32a88a0d739be49861f6265457276aa059b7ea0\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:36:9-41
+	android:allowBackup
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:38:9-35
+	android:icon
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:35:9-45
+	android:persistent
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:37:9-34
+	android:theme
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:39:9-62
+activity#cn.zzv.push.yqqwebview.MainActivity
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:41:9-51:20
+	android:screenOrientation
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:45:13-45
+	android:launchMode
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:42:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:48:27-74
+category#android.intent.category.DEFAULT
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:49:17-75
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:49:27-73
+activity#cn.zzv.push.yqqwebview.LoginActivity
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:52:9-56:20
+	android:label
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:55:13-42
+	android:configChanges
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:54:13-63
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:53:13-64
+activity#cn.zzv.push.yqqwebview.CustomActivity
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:57:9-61:20
+	android:launchMode
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:60:13-44
+	android:configChanges
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:59:13-63
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:58:13-65
+receiver#cn.zzv.push.yqqwebview.MyPushMessageReceiver
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:64:9-73:20
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:64:19-78
+intent-filter#com.baidu.android.pushservice.action.MESSAGE+com.baidu.android.pushservice.action.RECEIVE+com.baidu.android.pushservice.action.notification.CLICK
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:65:13-72:29
+action#com.baidu.android.pushservice.action.MESSAGE
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:68:17-87
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:68:25-84
+action#com.baidu.android.pushservice.action.RECEIVE
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:70:17-87
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:70:25-84
+action#com.baidu.android.pushservice.action.notification.CLICK
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:71:17-98
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:71:25-95
+receiver#com.baidu.android.pushservice.PushServiceReceiver
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:76:9-90:20
+	android:process
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:77:13-77
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.baidu.android.pushservice.action.media.CLICK+com.baidu.android.pushservice.action.notification.SHOW
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:79:13-89:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:80:17-79
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:80:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:81:17-79
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:81:25-76
+action#com.baidu.android.pushservice.action.notification.SHOW
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:82:17-97
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:82:25-94
+action#com.baidu.android.pushservice.action.media.CLICK
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:83:17-91
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:83:25-88
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:85:17-78
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:85:25-75
+action#android.intent.action.USER_PRESENT
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:86:17-77
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:86:25-74
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:87:17-87
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:87:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:88:17-90
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:88:25-87
+receiver#com.baidu.android.pushservice.RegistrationReceiver
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:91:9-103:20
+	android:process
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:93:13-44
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:92:13-78
+intent-filter#com.baidu.android.pushservice.action.BIND_SYNC+com.baidu.android.pushservice.action.METHOD
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:94:13-97:29
+action#com.baidu.android.pushservice.action.METHOD
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:95:17-86
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:95:25-83
+action#com.baidu.android.pushservice.action.BIND_SYNC
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:96:17-89
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:96:25-86
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:98:13-102:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:99:17-80
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:99:25-77
+data
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:101:17-50
+	android:scheme
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:101:23-47
+service#com.baidu.android.pushservice.PushService
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:105:9-112:19
+	android:process
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:108:13-44
+	android:exported
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:107:13-36
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:106:13-69
+intent-filter#com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:109:13-111:29
+action#com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:110:17-92
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:110:25-89
+service#com.baidu.android.pushservice.CommandService
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:113:9-115:39
+	android:exported
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:115:13-36
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:114:13-72
+provider#com.baidu.android.pushservice.PushInfoProvider
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:118:9-123:112
+	android:authorities
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:120:13-67
+	android:protectionLevel
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:122:13-48
+	android:exported
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:121:13-36
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:119:13-74
+	android:writePermission
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:123:13-109
+meta-data#api_key
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:126:9-128:56
+	android:value
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:128:13-53
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:127:13-35
+activity#com.baidu.ufosdk.ui.FeedbackListActivity
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:131:9-77
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:131:19-74
+activity#com.baidu.ufosdk.ui.FeedbackFacePageActivity
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:132:9-81
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:132:19-78
+activity#com.baidu.ufosdk.ui.FeedbackImageViewFlipperActivity
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:133:9-89
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:133:19-86
+activity#com.baidu.ufosdk.ui.FeedbackInputActivity
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:134:9-78
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:134:19-75
+activity#com.baidu.ufosdk.ui.FeedbackHotActivity
+ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:135:9-76
+	android:name
+		ADDED from E:\workspace_as\yqqapp\yqqwebview\AndroidManifest.xml:135:19-73
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\8f358c333341a79f9783f39212f07a9c732e99e4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\06c7b5e8f8186fca40fa3e1b8d20e913cbe14336\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\22d94a166c557c1c60b1e721afe4083a3097ed6d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\c9d279706c2a43445eebd550f17e683b5b37c8c6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\f5cf65655b5572abb2d2d51b30a6d3048c73ada7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\cfb2320c232280ec4604c44bfac4d6a2b1dcb658\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\493148fb8995a1a9ed13da0ba763bd8d03e7fe08\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\a84b57a6ca04172eb5b1e0b47dfc6a5df8408056\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\output\AndroidManifest.xml:26:9-47

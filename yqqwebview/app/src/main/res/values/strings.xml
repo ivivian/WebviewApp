@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PushDemo</string>
+    <string name="text_btn_on_push">打开Push</string>
+    <string name="text_btn_off_push">关闭Push</string>
+    <string name="log_tip">日志：</string>
+    <string name="clear_log">清除日志</string>
+    <string name="text_btn_rich">富媒体消息</string>
+    <string name="text_btn_initAK">绑定</string>
+    <string name="text_btn_setTags">设置标签</string>
+    <string name="text_btn_delTags">删除标签</string>
+    <string name="text_btn_senior">高级功能</string>
+    <string name="text_btn_set">设置</string>
+    <string name="text_media_title">富媒体消息列表</string>
+    <string name="media">Rich Media</string>
+    <string name="custom_text_hint">用户自定义行为打开的Activity</string>
+    <string name="tags_hint">请输入多个标签，以英文逗号隔开</string>
+    <string name="text_btn_aidl">轻应用AIDL</string>
+    <string name="text_btn_off_lightapp">关闭所有轻消息</string>
+    <string name="text_btn_off_app_msg">加入黑名单</string>
+    <string name="text_btn_unread_only_msg">只获取未读消息</string>
+    <string name="text_btn_on_shortcut">生成快捷图标</string>
+    <string name="text_btn_showTags">列举标签</string>
+    <string name="text_btn_unbind">解绑</string>
+    <string name="text_btn_setunDisturb">免打扰时段</string>
+    <string name="text_toast">设置成功，免打扰时段为：\n%1$s - %2$s</string>
+    <string name="text_about">百度Push Android SDK 5.8.0\n更新时间：2017年08月09日\nChange
+        Log：\n适配Android O系统；\n删除冗余代码，精简SDK；\n增加Android Studio版本Demo，便于开发者使用；\n修复已知bug，进一步提高稳定性。
+    </string>
+    <string name="text_help">百度hi官方技术讨论群：1405944\nQQ群：324533810(可加)\n
+    </string>
+    <string name="text_first_day">第一天的</string>
+    <string name="text_second_day">第二天的</string>
+    <string name="text_cancel_disturb">已取消 免打扰时段功能</string>
+    <string name="text_disturb_title">"免打扰时段功能使用说明"</string>
+    <string name="text_disturb_explain">
+        设置免打扰时段,在免打扰时段内,当用户收到通知时,会去除通知的提示音、振动以及提示灯闪烁.\n\n注意事项:\n1.如果开始时间小于结束时间,免打扰时段为当天的起始时间到结束时间.\n2.如果开始时间大于结束时间,免打扰时段为第一天起始时间到第二天结束时间.\n3.如果开始时间和结束时间的设置均为00:00时,取消免打扰时段功能.\n
+    </string>
+    <string name="prompt_about">关于</string>
+    <string name="prompt_help">帮助</string>
+    <string name="prompt_feedback">反馈</string>
+    <string name="prompt_confirm">确认</string>
+</resources>
